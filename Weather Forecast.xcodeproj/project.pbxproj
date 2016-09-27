@@ -12,6 +12,7 @@
 		A24929F51D31D9130000BA59 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A24929F31D31D9130000BA59 /* Main.storyboard */; };
 		A24929F71D31D9140000BA59 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A24929F61D31D9140000BA59 /* Assets.xcassets */; };
 		A24929FA1D31D9140000BA59 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A24929F81D31D9140000BA59 /* LaunchScreen.storyboard */; };
+		A2492A021D31D9F90000BA59 /* sunny-day-wallpaper-weather-67eb048e101364cb35a5e03504acb949-large-533645.jpg in Resources */ = {isa = PBXBuildFile; fileRef = A2492A011D31D9F90000BA59 /* sunny-day-wallpaper-weather-67eb048e101364cb35a5e03504acb949-large-533645.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		A24929F61D31D9140000BA59 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		A24929F91D31D9140000BA59 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		A24929FB1D31D9140000BA59 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		A2492A011D31D9F90000BA59 /* sunny-day-wallpaper-weather-67eb048e101364cb35a5e03504acb949-large-533645.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "sunny-day-wallpaper-weather-67eb048e101364cb35a5e03504acb949-large-533645.jpg"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +59,7 @@
 				A24929EF1D31D9130000BA59 /* AppDelegate.swift */,
 				A24929F11D31D9130000BA59 /* ViewController.swift */,
 				A24929F31D31D9130000BA59 /* Main.storyboard */,
+				A2492A011D31D9F90000BA59 /* sunny-day-wallpaper-weather-67eb048e101364cb35a5e03504acb949-large-533645.jpg */,
 				A24929F61D31D9140000BA59 /* Assets.xcassets */,
 				A24929F81D31D9140000BA59 /* LaunchScreen.storyboard */,
 				A24929FB1D31D9140000BA59 /* Info.plist */,
@@ -124,6 +127,7 @@
 			files = (
 				A24929FA1D31D9140000BA59 /* LaunchScreen.storyboard in Resources */,
 				A24929F71D31D9140000BA59 /* Assets.xcassets in Resources */,
+				A2492A021D31D9F90000BA59 /* sunny-day-wallpaper-weather-67eb048e101364cb35a5e03504acb949-large-533645.jpg in Resources */,
 				A24929F51D31D9130000BA59 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
